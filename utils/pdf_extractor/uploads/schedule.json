@@ -1,0 +1,7074 @@
+[
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПОЗДНЯКОВА А.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.История литературы и искусства\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "лек.Основы копирайтинга\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЕВГРАФОВА Л.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Иностранный язык ",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИГНАТЕНКО В.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.История литературы и искусства\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 404
+    },
+    {
+        "name": "лек.Теория и практика медиакоммуникаций\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КЛИЦЕНКО М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "пр.Теория и практика ",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СО\nКЛИЦ",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 508
+    },
+    {
+        "name": "пр.Теория и практика медиакоммуникаций\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КЛИЦЕНКО М.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 508
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИГНАТЕНКО В.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Основы теории коммуникации\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУРАВЬЕВА М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 413
+    },
+    {
+        "name": "лек.Деловая коммуникация\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕНИСОВА Е.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "лек.Основы теории коммуникации\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУРАВЬЕВА М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Теория и практика ",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СО\nКЛИЦ",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "лек.Теория и практика рекламы\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВЛАДИМИРОВ С.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.Деловая коммуникация\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕНИСОВА Е.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 324
+    },
+    {
+        "name": "пр.Теория и практика ",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СО\nКЛИЦ",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 508
+    },
+    {
+        "name": "пр.Теория и практика медиакоммуникаций\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КЛИЦЕНКО М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 508
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Теория и практика рекламы\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВЛАДИМИРОВ С.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Основы копирайтинга\n",
+        "group": {
+            "id": "13",
+            "short_name": "ДЭ 13-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЕВГРАФОВА Л.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 508
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПОЗДНЯКОВА А.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.История литературы и искусства\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "лек.Основы копирайтинга\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЕВГРАФОВА Л.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.Теория и практика медиакоммуникаций\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КЛИЦЕНКО М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 508
+    },
+    {
+        "name": "пр.Основы теории коммуникации\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУРАВЬЕВА М.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 413
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "УМАНСКАЯ П.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 215
+    },
+    {
+        "name": "лек.Теория и практика медиакоммуникаций\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КЛИЦЕНКО М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "пр.История литературы и искусства\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 3,
+        "cabinet": 324
+    },
+    {
+        "name": "пр.Теория и практика ",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СО\nКЛИЦ",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 508
+    },
+    {
+        "name": "лек.Деловая коммуникация\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕНИСОВА Е.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "лек.Основы теории коммуникации\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУРАВЬЕВА М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Теория и практика ",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СО\nКЛИЦ",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "лек.Теория и практика рекламы\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВЛАДИМИРОВ С.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.Основы копирайтинга\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЕВГРАФОВА Л.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 508
+    },
+    {
+        "name": "пр.Деловая коммуникация\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕНИСОВА Е.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 324
+    },
+    {
+        "name": "пр.Иностранный язык ",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "УМАНСКАЯ П.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 215
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Теория и практика рекламы\n",
+        "group": {
+            "id": "08",
+            "short_name": "ДЭ 08-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВЛАДИМИРОВ С.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Математика\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПОЗДНЯКОВА А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "пр.Экономическая теория (Микро- и макроэкономика,\nмировая экономика)\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КЕЛЕМЕТОВ Э.М.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 413
+    },
+    {
+        "name": "лек.Теория управления\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПЛАТОНОВСКИЙ Н.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 502
+    },
+    {
+        "name": "пр.Теория управления\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПЛАТОНОВСКИЙ Н.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 504
+    },
+    {
+        "name": "лек.Муниципальное право\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАГДАСАРОВА А.Э.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 2,
+        "cabinet": 206
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВАСИЛЬЧЕНКО Т.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 224
+    },
+    {
+        "name": "лек.Риторика\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВОЛОДИН А.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 29,
+        "cabinet": 111
+    },
+    {
+        "name": "лек.Экономическая теория (Микро- и макроэкономика,\nмировая экономика) ",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КЕЛЕМЕТОВ Э.М.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 413
+    },
+    {
+        "name": "лек.Психология\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПАНЮКОВА Ю.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 217
+    },
+    {
+        "name": "лек.История государственного управления\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЕРОШКИН С.Ю.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 502
+    },
+    {
+        "name": "лек.Информационные технологии в управлении\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПЧЕЛИНЦЕВА С.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 404
+    },
+    {
+        "name": "пр.Муниципальное право\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАГДАСАРОВА А.Э.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 206
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.Математика\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.Психология\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПАНЮКОВА Ю.Г.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 217
+    },
+    {
+        "name": "пр.История государственного управления\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЕРОШКИН С.Ю.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 510
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Информационные технологии в управлении\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПЧЕЛИНЦЕВА С.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 3,
+        "cabinet": 103
+    },
+    {
+        "name": "пр.Риторика\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВОЛОДИН А.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 29,
+        "cabinet": 111
+    },
+    {
+        "name": "пр.Теория управления\n",
+        "group": {
+            "id": "05",
+            "short_name": "ДЭ 05-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПЛАТОНОВСКИЙ Н.Г.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 502
+    },
+    {
+        "name": "пр.Правоведение\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЧКОВА С.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 28,
+        "cabinet": 311
+    },
+    {
+        "name": "лек.Математическая статистика\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЖИКИЯ М.К.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.Иностранный язык ",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИГНАТЕНКО В.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 210
+    },
+    {
+        "name": "лек.Общая и социальная психология\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОЗЛЕНКОВА Е.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "пр.Русский язык и деловые коммуникации\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 2,
+        "cabinet": 103
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "пр.История и философия образования\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРИВЧАНСКИЙ И.Ф.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 317
+    },
+    {
+        "name": "пр.Общая и социальная психология\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВОЛКОВА А.Н.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 317
+    },
+    {
+        "name": "пр.Математическая статистика ",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЖИКИЯ М.К.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 210
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Информационные технологии в профессионально-\nпедагогической деятельности ",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИМАН А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "лек.Русский язык и деловые коммуникации\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 215
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИГНАТЕНКО В.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Математическая статистика ",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЖИКИЯ М.К.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Общая и социальная психология\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВОЛКОВА А.Н.",
+        "time_from": "16:50",
+        "time_to": "18:25",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 27,
+        "cabinet": 217
+    },
+    {
+        "name": "лек.Правоведение\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЧКОВА С.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "лек.История и философия образования\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРИВЧАНСКИЙ И.Ф.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Информационные технологии в профессионально-\nпедагогической деятельности\n",
+        "group": {
+            "id": "12",
+            "short_name": "ДЭ 12-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖИЛЯЕВА В.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 27,
+        "cabinet": 318
+    },
+    {
+        "name": "лек.Математическая статистика\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЖИКИЯ М.К.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.Математическая статистика\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЖИКИЯ М.К.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Общая и социальная психология\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВОЛКОВА А.Н.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 27,
+        "cabinet": 217
+    },
+    {
+        "name": "лек.Общая и социальная психология\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОЗЛЕНКОВА Е.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "пр.Правоведение\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЧКОВА С.С.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 311
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Иностранный язык МАЛЁ",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "В А.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 213
+    },
+    {
+        "name": "пр.Русский язык и деловые коммуникации\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 103
+    },
+    {
+        "name": "пр.История и философия образования\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЕПРИКЯН Д.О.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 217
+    },
+    {
+        "name": "пр.История и философия образования\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЕПРИКЯН Д.О.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 215
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Информационные технологии в профессионально-\nпедагогической деятельности ",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИМАН А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "лек.Русский язык и деловые коммуникации\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 215
+    },
+    {
+        "name": "пр.Иностранный язык\nМАЛЁ",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "В А.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 213
+    },
+    {
+        "name": "пр.Информационные технологии в профессионально-\nпедагогической деятельности\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖИЛЯЕВА В.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 27,
+        "cabinet": 318
+    },
+    {
+        "name": "лек.Правоведение\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЧКОВА С.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "лек.История и философия образования\n",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРИВЧАНСКИЙ И.Ф.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "11",
+            "short_name": "ДЭ 11-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "лек.Математическая статистика\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЖИКИЯ М.К.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.Русский язык и деловые коммуникации\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 103
+    },
+    {
+        "name": "лек.Общая и социальная психология\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОЗЛЕНКОВА Е.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИНЬЯ ТАЛЬ",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 27,
+        "cabinet": 309
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Иностранный язык ",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИНЬЯ ТАЛЬ",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 309
+    },
+    {
+        "name": "пр.Общая и социальная психология\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОЗЛЕНКОВА Е.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 217
+    },
+    {
+        "name": "пр.Математическая статистика\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЖИКИЯ М.К.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Информационные технологии в профессионально-\nпедагогической деятельности\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИМАН А.С.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 318
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ОРИШЕВ А.Б.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Информационные технологии в профессионально-\nпедагогической деятельности ",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИМАН А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "лек.Русский язык и деловые коммуникации\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 215
+    },
+    {
+        "name": "пр.Правоведение\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЧКОВА С.С.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 311
+    },
+    {
+        "name": "пр.История и философия образования\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРИВЧАНСКИЙ И.Ф.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 27,
+        "cabinet": 317
+    },
+    {
+        "name": "лек.Правоведение\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЧКОВА С.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "лек.История и философия образования\n",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРИВЧАНСКИЙ И.Ф.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 27,
+        "cabinet": 310
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "10",
+            "short_name": "ДЭ 10-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПОЗДНЯКОВА А.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Технология производства продукции\nрастениеводства ",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Экономическая безопасность\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАТКОВА Е.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 318
+    },
+    {
+        "name": "пр.Экономическая безопасность\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАТКОВА Е.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 322
+    },
+    {
+        "name": "лек.Экономическая теория\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АРЗАМАСЦЕВА Н.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПЛЕСКАНЮК Т.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 222
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПОЗДНЯКОВА А.С.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 319
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПАВЛОВ А.Е.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "лек.Кадровая безопасность организаций ",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АПК\nКАТК",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 318
+    },
+    {
+        "name": "лек.Право\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАГДАСАРОВА А.Э.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 318
+    },
+    {
+        "name": "лек.Право\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАГДАСАРОВА А.Э.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 217
+    },
+    {
+        "name": "пр.Экономическая теория\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АРЗАМАСЦЕВА Н.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 403
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Технология производства продукции\nрастениеводства\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДИКАРЕВА С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ШАЙТУРА Н.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "пр.Право\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАГДАСАРОВА А.Э.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 322
+    },
+    {
+        "name": "пр.Государственный финансовый контроль\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "РУСАКОВ Я.Е.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 322
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Государственный финансовый контроль\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАТКОВ Ю.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 2,
+        "cabinet": 318
+    },
+    {
+        "name": "пр.Кадровая безопасность организаций ",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АПК\nКАТК",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 2,
+        "cabinet": 322
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "07",
+            "short_name": "ДЭ 07-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ШАЙТУРА Н.С.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПОЗДНЯКОВА А.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Технология производства продукции\nрастениеводства ",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Экономическая безопасность\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАТКОВА Е.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 318
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВАСИЛЬЧЕНКО Т.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 224
+    },
+    {
+        "name": "пр.Экономическая безопасность\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАТКОВА Е.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 322
+    },
+    {
+        "name": "лек.Экономическая теория\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АРЗАМАСЦЕВА Н.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПОЗДНЯКОВА А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "пр.Экономическая теория\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АРЗАМАСЦЕВА Н.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 403
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПАВЛОВ А.Е.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "лек.Кадровая безопасность организаций ",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АПК\nКАТК",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 318
+    },
+    {
+        "name": "лек.Право\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАГДАСАРОВА А.Э.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 318
+    },
+    {
+        "name": "лек.Право\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАГДАСАРОВА А.Э.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 217
+    },
+    {
+        "name": "пр.Кадровая безопасность организаций ",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АПК\nКАТК",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 322
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Право\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАГДАСАРОВА А.Э.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 322
+    },
+    {
+        "name": "пр.Государственный финансовый контроль\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "РУСАКОВ Я.Е.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 322
+    },
+    {
+        "name": "пр.Технология производства продукции\nрастениеводства\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИЛЬХОВОЙ В.Е.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ШАЙТУРА Н.С.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Государственный финансовый контроль\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАТКОВ Ю.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 2,
+        "cabinet": 318
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "06",
+            "short_name": "ДЭ 06-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ШАЙТУРА Н.С.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "лек.Бухгалтерский учет и налогообложение\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЙКО О.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 204
+    },
+    {
+        "name": "лек.Экономическая теория\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЕСШАПОШНЫЙ М.Н.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Технология хранения и переработки продукции\nживотноводства\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГИРО Т.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 25,
+        "cabinet": 1
+    },
+    {
+        "name": "пр.Бухгалтерский учет и налогообложение\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЙКО О.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 107
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СУЛТАНОВА И.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 27,
+        "cabinet": 308
+    },
+    {
+        "name": "лек.Технология хранения и переработки продукции\nрастениеводства ",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУСТАФИНА А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 328
+    },
+    {
+        "name": "лек.Технология хранения и переработки продукции\nживотноводства ",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГИРО Т.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 25,
+        "cabinet": 1
+    },
+    {
+        "name": "пр.Цифровые технологии в менеджменте\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРАСОВСКАЯ Л.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 104
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Технология хранения и переработки продукции\nрастениеводства\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУСТАФИНА А.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 117
+    },
+    {
+        "name": "лек.Цифровые технологии в менеджменте\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРАСОВСКАЯ Л.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "лек.Высшая математика\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПРУДКИЙ А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАЙЦЕВ А.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 209
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЮК С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "пр.Экономическая теория\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЕСШАПОШНЫЙ М.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 328
+    },
+    {
+        "name": "пр.Экономическая теория\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЕСШАПОШНЫЙ М.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Высшая математика\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ШАЙТУРА Н.С.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 224
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЮК С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.Высшая математика\n",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ШАЙТУРА Н.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "04",
+            "short_name": "ДЭ 04-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Бухгалтерский учет и налогообложение\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЙКО О.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 204
+    },
+    {
+        "name": "лек.Экономическая теория\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЕСШАПОШНЫЙ М.Н.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Технология хранения и переработки продукции\nрастениеводства\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУСТАФИНА А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 117
+    },
+    {
+        "name": "пр.Технология хранения и переработки продукции\nживотноводства\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГИРО Т.М.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 25,
+        "cabinet": 1
+    },
+    {
+        "name": "лек.Технология хранения и переработки продукции\nрастениеводства ",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУСТАФИНА А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 328
+    },
+    {
+        "name": "лек.Технология хранения и переработки продукции\nживотноводства ",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГИРО Т.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 25,
+        "cabinet": 1
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "АЛИПИЧЕВ А.Ю.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 218
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЮК С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 3,
+        "cabinet": 323
+    },
+    {
+        "name": "лек.Цифровые технологии в менеджменте\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРАСОВСКАЯ Л.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 315
+    },
+    {
+        "name": "лек.Высшая математика\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ПРУДКИЙ А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАЙЦЕВ А.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 209
+    },
+    {
+        "name": "пр.Высшая математика\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ШАЙТУРА Н.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.Цифровые технологии в менеджменте\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КРАСОВСКАЯ Л.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 3,
+        "cabinet": 104
+    },
+    {
+        "name": "пр.Экономическая теория\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЕСШАПОШНЫЙ М.Н.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 403
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЮК С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.Бухгалтерский учет и налогообложение\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОЙКО О.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 2,
+        "cabinet": 108
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Высшая математика\n",
+        "group": {
+            "id": "03",
+            "short_name": "ДЭ 03-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ШАЙТУРА Н.С.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "лек.Макроэкономика\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИГУНОВ Р.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "лек.Культура речи и деловое общение\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕНИСОВА Е.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "лек.Технология производства продукции\nрастениеводства ",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "пр.Культура речи и деловое общение\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕНИСОВА Е.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 105
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА И.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 208
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 326
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 327
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Иностранный язык (РКИ)\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СУРКОВА Е.В.",
+        "time_from": "16:50",
+        "time_to": "18:25",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 223
+    },
+    {
+        "name": "лек.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 218
+    },
+    {
+        "name": "лек.Технология переработки и хранения продукции\nживотноводства ",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГИРО Т.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 25,
+        "cabinet": 1
+    },
+    {
+        "name": "пр.Технология переработки и хранения продукции\nживотноводства ",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГИРО Т.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 25,
+        "cabinet": 1
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 326
+    },
+    {
+        "name": "пр.Макроэкономика\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИГУНОВ Р.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 224
+    },
+    {
+        "name": "лек.Технология хранения и переработки продукции\nрастениеводства ",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУСТАФИНА А.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 102
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "пр.Технология хранения и переработки продукции\nрастениеводства ",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУСТАФИНА А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 117
+    },
+    {
+        "name": "пр.Технология производства продукции растениеводства ",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИЛЬХОВОЙ\nВ.Е.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 3,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СИНИЦЫНА И.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 208
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЮК С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЮК С.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 404
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "02",
+            "short_name": "ДЭ 02-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Макроэкономика\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИГУНОВ Р.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "лек.Культура речи и деловое общение\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕНИСОВА Е.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 101
+    },
+    {
+        "name": "лек.Технология производства продукции\nрастениеводства ",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 102
+    },
+    {
+        "name": "пр.Макроэкономика\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИГУНОВ Р.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 27,
+        "cabinet": 224
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВАСИЛЬЧЕНКО Т.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 224
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 326
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 327
+    },
+    {
+        "name": "пр.Технология переработки и хранения продукции животноводства ",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГИРО\nТ.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 25,
+        "cabinet": 1
+    },
+    {
+        "name": "пр.Технология хранения и переработки продукции\nрастениеводства ",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУСТАФИНА А.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 117
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЮК С.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Иностранный язык (РКИ)\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "СУРКОВА Е.В.",
+        "time_from": "16:50",
+        "time_to": "18:25",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 223
+    },
+    {
+        "name": "лек.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 218
+    },
+    {
+        "name": "лек.Технология переработки и хранения продукции\nживотноводства ",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГИРО Т.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 25,
+        "cabinet": 1
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "лек.Технология хранения и переработки продукции\nрастениеводства ",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МУСТАФИНА А.С.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 102
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 326
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВАСИЛЬЧЕНКО Т.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 224
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЮК С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.Технология производства продукции растениеводства ",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИЛЬХОВОЙ\nВ.Е.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Культура речи и деловое общение\n",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕНИСОВА Е.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 3,
+        "cabinet": 323
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "01",
+            "short_name": "ДЭ 01-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Дискретная математика\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 114
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 402
+    },
+    {
+        "name": "пр.Основы животноводства ",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАЛМЫКОВА О.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 11,
+        "cabinet": 225
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Основы животноводства\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАЛМЫКОВА О.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Базы данных ",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАБКИНА А.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.Математика\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 114
+    },
+    {
+        "name": "пр.Базы данных\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАБКИНА А.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 309
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Программирование на языке Python\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "16:50",
+        "time_to": "18:25",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "лек.Математика\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "лек.Дискретная математика\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.Операционные системы\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 316
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВАСИЛЬЕВ М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 224
+    },
+    {
+        "name": "пр.Физика\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХУСАИНОВ Ш.Г.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 301
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 29,
+        "cabinet": 224
+    },
+    {
+        "name": "лек.Физика\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХУСАИНОВ Ш.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 304
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 402
+    },
+    {
+        "name": "пр.Программирование на языке Python\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 3,
+        "cabinet": 103
+    },
+    {
+        "name": "лек.Операционные системы\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Программирование на языке Python\n",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "18",
+            "short_name": "ДЭ 18-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 402
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Основы животноводства\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАЛМЫКОВА О.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Базы данных ",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАБКИНА А.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.Дискретная математика\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "пр.Программирование на языке Python\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Физика\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХУСАИНОВ Ш.Г.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 301
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Математика\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "лек.Дискретная математика\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 402
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИНЬЯ ТАЛЬ",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 27,
+        "cabinet": 309
+    },
+    {
+        "name": "пр.Базы данных\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАБКИНА А.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 309
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 29,
+        "cabinet": 224
+    },
+    {
+        "name": "лек.Физика\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХУСАИНОВ Ш.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 304
+    },
+    {
+        "name": "пр.Операционные системы\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Математика\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.Программирование на языке Python\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Основы животноводства ",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАЛМЫКОВА О.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 11,
+        "cabinet": 225
+    },
+    {
+        "name": "лек.Операционные системы\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Программирование на языке Python\n",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "17",
+            "short_name": "ДЭ 17-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Дискретная математика\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 114
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Основы животноводства\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАЛМЫКОВА О.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Базы данных ",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАБКИНА А.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.Основы животноводства ",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАЛМЫКОВА О.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 11,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.Программирование на языке Python\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Физика\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХУСАИНОВ Ш.Г.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 301
+    },
+    {
+        "name": "пр.Операционные системы\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Математика\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "лек.Дискретная математика\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.Математика\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 402
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 29,
+        "cabinet": 224
+    },
+    {
+        "name": "лек.Физика\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХУСАИНОВ Ш.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 304
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВАСИЛЬЕВ М.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 222
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 402
+    },
+    {
+        "name": "пр.Базы данных\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАБКИНА А.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 12,
+        "cabinet": 309
+    },
+    {
+        "name": "лек.Операционные системы\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Программирование на языке Python\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Программирование на языке Python\n",
+        "group": {
+            "id": "16",
+            "short_name": "ДЭ 16-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Программирование на языке Python\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Операционные системы\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Основы животноводства\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАЛМЫКОВА О.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Базы данных ",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАБКИНА А.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.Программирование на языке Python\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "пр.Основы животноводства ",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КАЛМЫКОВА О.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 11,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.Базы данных\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БАБКИНА А.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 309
+    },
+    {
+        "name": "пр.Дискретная математика\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 114
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Математика\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "лек.Дискретная математика\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.Иностранный язык\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИГНАТЕНКО В.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 402
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 29,
+        "cabinet": 224
+    },
+    {
+        "name": "лек.Физика\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХУСАИНОВ Ш.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 304
+    },
+    {
+        "name": "пр.Математика\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 114
+    },
+    {
+        "name": "пр.Физика\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХУСАИНОВ Ш.Г.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 301
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЖУРАВЛЕВ М.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 12,
+        "cabinet": 315
+    },
+    {
+        "name": "лек.Операционные системы\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Программирование на языке Python\n",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЛАПШИН С.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "15",
+            "short_name": "ДЭ 15-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Теория информации\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОДУР А.М.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 3,
+        "cabinet": 103
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Основы технологии производства продукции\nрастениеводства ",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Основы животноводства и рационального\nкормления животных ",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОСОЛАПОВА В.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "пр.КпоВ: Английский язык для IT-специалистов- 1 п/г\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕМИЧЕВ В.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЫКОВ Д.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Философия\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕМИЧЕВ В.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.Основы животноводства и рационального кормления\nживотных ",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОНДОБАРОВА В.Н.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 11,
+        "cabinet": 106
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 3,
+        "building": 1,
+        "cabinet": 305
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 7
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Основы технологии производства продукции растениеводства\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "МИРОНЧЕВА П.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 4,
+        "building": 3,
+        "cabinet": 210
+    },
+    {
+        "name": "лек.Теория информации\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХРАМОВ Д.Э.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 23,
+        "cabinet": 40
+    },
+    {
+        "name": "пр.Философия\n",
+        "group": {
+            "id": "25",
+            "short_name": "ДЭ 25-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 410
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАХАРОВА Е.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "пр.Философия\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 410
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Основы технологии производства продукции\nрастениеводства ",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Основы животноводства и рационального\nкормления животных ",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОСОЛАПОВА В.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "пр.Теория информации\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОДУР А.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 2,
+        "cabinet": 102
+    },
+    {
+        "name": "пр.Основы технологии производства продукции растениеводства\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 210
+    },
+    {
+        "name": "пр.Основы животноводства и рационального кормления\nживотных ",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КСЕНОФОНТОВА А.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 11,
+        "cabinet": 110
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Философия\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕМИЧЕВ В.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАХАРОВА Е.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.КпоВ: Английский язык для IT-специалистов-\n1 п/г ",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ТОКАРЕВ В.С.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЫКОВ Д.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "лек.Теория информации\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХРАМОВ Д.Э.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 23,
+        "cabinet": 40
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "24",
+            "short_name": "ДЭ 24-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 404
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЫКОВ Д.В.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "пр.Философия\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 410
+    },
+    {
+        "name": "пр.КпоВ: Английский язык для IT-специалистов- 1 п/г\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕМИЧЕВ В.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Философия\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "16:50",
+        "time_to": "18:25",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 1,
+        "cabinet": 410
+    },
+    {
+        "name": "лек.Основы технологии производства продукции\nрастениеводства ",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Основы животноводства и рационального\nкормления животных ",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОСОЛАПОВА В.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "пр.Основы животноводства и рационального\nкормления животных ",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОНДОБАРОВА В.Н.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 11,
+        "cabinet": 106
+    },
+    {
+        "name": "пр.Основы технологии производства продукции растениеводства\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИЛЬХОВОЙ В.Е.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 206
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Философия\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕМИЧЕВ В.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.Теория информации\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОДУР А.М.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 106
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "лек.Теория информации\n",
+        "group": {
+            "id": "23",
+            "short_name": "ДЭ 23-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХРАМОВ Д.Э.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 23,
+        "cabinet": 40
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КИЙКО П.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 225
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Основы животноводства и рационального кормления\nживотных ",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КСЕНОФОНТОВА А.А.",
+        "time_from": "16:50",
+        "time_to": "18:25",
+        "split": 2,
+        "day_of_week": 0,
+        "building": 11,
+        "cabinet": 110
+    },
+    {
+        "name": "лек.Основы технологии производства продукции\nрастениеводства ",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Основы животноводства и рационального\nкормления животных ",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОСОЛАПОВА В.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "пр.Теория информации\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОДУР А.М.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 2,
+        "cabinet": 102
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЫКОВ Д.В.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Философия\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕМИЧЕВ В.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.Философия\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 410
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.КпоВ: Адаптационный курс английского языка\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "УМАНСКАЯ П.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 12,
+        "cabinet": 215
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "пр.КпоВ: Английский язык для IT-специалистов\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ТОКАРЕВ В.С.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 28,
+        "cabinet": 7
+    },
+    {
+        "name": "лек.Теория информации\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХРАМОВ Д.Э.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 23,
+        "cabinet": 40
+    },
+    {
+        "name": "пр.Основы технологии производства продукции растениеводства\n",
+        "group": {
+            "id": "22",
+            "short_name": "ДЭ 22-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИЛЬХОВОЙ В.Е.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 1,
+        "day_of_week": 4,
+        "building": 3,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БЫКОВ Д.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "пр.Математический анализ\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 0,
+        "building": 12,
+        "cabinet": 220
+    },
+    {
+        "name": "лек.Математический анализ\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ИНОЗЕМЦЕВ А.И.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 0,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Основы технологии производства продукции\nрастениеводства ",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ЗАПИВАЛОВ С.А.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "лек.Основы животноводства и рационального\nкормления животных ",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОСОЛАПОВА В.Г.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 325
+    },
+    {
+        "name": "пр.Основы животноводства и рационального\nкормления животных ",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "КОНДОБАРОВА В.Н.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 1,
+        "building": 11,
+        "cabinet": 106
+    },
+    {
+        "name": "пр.Основы технологии производства продукции растениеводства\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ВИЛЬХОВОЙ В.Е.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 1,
+        "building": 3,
+        "cabinet": 206
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "пр.История России\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 1,
+        "building": 1,
+        "cabinet": 405
+    },
+    {
+        "name": "лек.История России\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ГОНЧАРУК Е.И.",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 407
+    },
+    {
+        "name": "лек.Философия\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 1,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "лек.Алгоритмизация и программирование\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕМИЧЕВ В.В.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 2,
+        "day_of_week": 2,
+        "building": 1,
+        "cabinet": 416
+    },
+    {
+        "name": "пр.КпоВ: Английский язык для IT-специалистов-\n1 п/г ",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ДЕМИЧЕВ В.В.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 2,
+        "building": 2,
+        "cabinet": 302
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "14:55",
+        "time_to": "16:30",
+        "split": 0,
+        "day_of_week": 2,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "лек.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 211
+    },
+    {
+        "name": "пр.Безопасность жизнедеятельности\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 28,
+        "cabinet": 328
+    },
+    {
+        "name": "пр.Теория информации\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "БОДУР А.М.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 3,
+        "building": 2,
+        "cabinet": 106
+    },
+    {
+        "name": "пр.КпоВ: Базовая физическая культура / Базовые виды\nспорта\nСК",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "",
+        "time_from": "09:00",
+        "time_to": "10:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": -1,
+        "cabinet": -1
+    },
+    {
+        "name": "пр.Философия\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "САПУНОВА А.А.",
+        "time_from": "10:55",
+        "time_to": "12:30",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 1,
+        "cabinet": 410
+    },
+    {
+        "name": "лек.Теория информации\n",
+        "group": {
+            "id": "21",
+            "short_name": "ДЭ 21-24",
+            "degree": 1,
+            "institute": "Институт экономики и управления АПК"
+        },
+        "teacher": "ХРАМОВ Д.Э.",
+        "time_from": "13:00",
+        "time_to": "14:35",
+        "split": 0,
+        "day_of_week": 4,
+        "building": 23,
+        "cabinet": 40
+    }
+]

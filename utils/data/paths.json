@@ -1,0 +1,45 @@
+{
+    "Институт агробиотехнологии": {
+        "1": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007342_agro-1.pdf",
+        "2": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007351_agro-2.pdf",
+        "3": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007359_agro-3.pdf",
+        "4": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007367_agro-4.pdf"
+    },
+    "Институт зоотехнии и биологии": {
+        "1": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007382_zoo-1.pdf",
+        "2": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007394_zoo-2.pdf",
+        "3": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007404_zoo-3.pdf",
+        "4": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007413_zoo-4.pdf",
+        "5": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007423_zoo-5.pdf"
+    },
+    "Институт садоводства и ландшафтной архитектуры": {
+        "1": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007451_sila-1.pdf",
+        "2": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007461_sila-2.pdf",
+        "3": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007469_sila-3.pdf",
+        "4": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007476_sila-4.pdf"
+    },
+    "Технологический институт": {
+        "2": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007495_teh-2.pdf",
+        "3": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007502_teh-3.pdf",
+        "4": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007510_teh-4.pdf"
+    },
+    "Институт экономики и управления АПК": {
+        "1": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007524_ieiu-1.pdf",
+        "2": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007531_ieiu-2.pdf",
+        "3": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007537_ieiu-3.pdf",
+        "4": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007544_ieiu-4.pdf",
+        "5": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007551_ieiu-5.pdf"
+    },
+    "Институт механики и энергетики имени В.П. Горячкина": {
+        "1": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007565_ime-1.pdf",
+        "2": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007573_ime-2.pdf",
+        "3": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007581_ime-3.pdf",
+        "4": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007589_ime-4.pdf"
+    },
+    "Институт мелиорации, водного хозяйства и строительства имени А.Н. Костякова": {
+        "1": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007605_imvhs-1.pdf",
+        "2": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007612_imvhs-2.pdf",
+        "3": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007619_imvhs-3.pdf",
+        "45": "/Users/umerenkovmaksim/VSCodeProjects/StudentAppAPI/utils/data/schedules/1741007627_imvhs-45.pdf"
+    }
+}
