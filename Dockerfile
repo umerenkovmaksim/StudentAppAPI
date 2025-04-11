@@ -1,16 +1,16 @@
-FROM python:3.12-slim
+FROM ghcr.io/astral-sh/uv:python3.12-bookworm-slim
+
+ENV UV_COMPILE_BYTECODE=1
+ENV UV_LINK_MODE=copy
 
 WORKDIR /src
 COPY . /src
 
-ENV DB_URL=postgresql+asyncpg://postgres:kDshu3E5QpE0geqd9hS3m232hS9OQJ@138.124.114.106:5432/postgres
-
-RUN pip install -r requirements.txt
-RUN alembic init -t async migration
-RUN alembic upgrade head
+RUN uv sync
+# RUN uv run alembic upgrade head
 
 EXPOSE 8000
 
 WORKDIR /src
 
-CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uv", "run", "uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]

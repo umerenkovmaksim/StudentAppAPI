@@ -1,15 +1,11 @@
 from __future__ import annotations
 
-from typing import TYPE_CHECKING
+from datetime import time
 
 from pydantic import BaseModel, ConfigDict, Field
 
 from app.students.schemas import SGroupAdd
 
-if TYPE_CHECKING:
-    from datetime import time
-
-    from app.students.schemas import SGroupAdd
 
 class SLesson(BaseModel):
     model_config = ConfigDict(from_attributes=True)

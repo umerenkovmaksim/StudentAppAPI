@@ -22,7 +22,7 @@ class BaseDAO:
         return result.scalars().all()
 
     @classmethod
-    async def find_one_or_none_by_id(cls, session: AsyncSession, id: int) -> model | None:
+    async def find_one_or_none_by_id(cls, session: AsyncSession, id: int) -> model:
         query = select(cls.model).filter_by(id=id)
         result = await session.execute(query)
         return result.scalar_one_or_none()
@@ -30,7 +30,7 @@ class BaseDAO:
     @classmethod
     async def find_one_or_none(
         cls, session: AsyncSession, **filter_by: typing.Any,
-    ) -> model | None:
+    ) -> model:
         query = select(cls.model).filter_by(**filter_by)
         result = await session.execute(query)
         return result.scalar_one_or_none()

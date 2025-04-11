@@ -1,11 +1,50 @@
-version: "3.8"
 services:
-  app:
+  backend:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: studentapi_app
+    networks:
+      - studentapp_network
+    environment:
+      - DB_URL=postgresql+asyncpg://postgres:lNaXXtgFNi0Ac1NZf3RcF3bEwZb9v3@db:5432/postgres
     ports:
       - "8000:8000"
     volumes:
       - .:/app
+    depends_on:
+      db:
+        condition: service_healthy
+
+  db: 
+    image: postgres:latest
+    restart: always
+    networks:
+      - studentapp_network
+    user: postgres
+    environment:
+      - POSTGRES_PASSWORD=lNaXXtgFNi0Ac1NZf3RcF3bEwZb9v3
+      - POSTGRES_DB=postgres 
+      - POSTGRES_USER=postgres
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready"]
+      interval: 1s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - pgdata:/var/lib/postgresql/data 
+
+  adminer: 
+    image: adminer
+    restart: always
+    networks:
+      - studentapp_network
+    ports:
+      - "8080:8080"
+
+volumes:
+  pgdata:
+
+networks:
+  studentapp_network: 
+    driver: bridge 
+

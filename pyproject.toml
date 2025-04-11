@@ -5,10 +5,16 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "aiosqlite>=0.21.0",
+    "alembic>=1.15.2",
     "asyncpg>=0.30.0",
     "fastapi>=0.115.11",
+    "greenlet>=3.1.1",
+    "httpx>=0.28.1",
     "pydantic-settings>=2.8.1",
     "pydantic[email]>=2.10.6",
+    "pytest>=8.3.5",
+    "pytest-asyncio>=0.26.0",
     "ruff>=0.11.1",
     "sqlalchemy>=2.0.39",
     "uvicorn>=0.34.0",
@@ -43,7 +49,7 @@ exclude = [
 indent-width = 4
 
 [tool.ruff.lint]
-select = ["E", "W", "C", "F", "N", "ASYNC", "C4", "COM", "PIE", "T20", "RET", "SIM", "TID", "TC", "ARG", "PL", "UP", "FA", "I"]
+select = ["E", "W", "C", "F", "N", "ASYNC", "C4", "COM", "PIE", "T20", "RET", "SIM", "TID", "ARG", "PL", "UP", "FA", "I"]
 ignore = ["E501"]
 
 # Allow fix for all enabled rules (when `--fix`) is provided.
